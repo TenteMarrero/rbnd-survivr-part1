@@ -33,7 +33,11 @@ puts "George".blue
 puts "Ringo".yellow
 ```
 
+Result in the shell:
+
+![image](https://github.com/TenteMarrero/rbnd-survivr-part1/blob/master/img/code_example_output.png?raw=true)
+
 ## Installation instructions
 
 * Download file [`colorizr-0.0.1.gem`](https://github.com/TenteMarrero/rbnd-survivr-part1/blob/master/colorizr-0.0.1.gem)
-* In the shell type (`gem install colorizr-0.0.1.gem`)
+* In the shell type `gem install colorizr-0.0.1.gem`

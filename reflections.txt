@@ -1,0 +1,11 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+Looping through a hash with send(:define_method, name) strategy. This way, the code will create one method per key.
+
+How long did you spend working on this project?
+2-3 hours
+
+What was the most rewarding challenge you conquered?
+Learning metaprogramming capability for the first time in my career
+
+Where do you still have room to grow?
+Using other methods such us method_missing
