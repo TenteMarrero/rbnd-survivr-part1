@@ -28,5 +28,3 @@ class String
 end
 
 String.create_colors
-String.colors
-String.sample_colors
